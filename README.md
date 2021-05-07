@@ -8,10 +8,10 @@
 Computing FID of two given folders containing images:
 
 ```
-python fid_score.py --path1 /path_to_folder_1 --path2 /path_to_folder_1
+python fid_score.py --path1 /path_to_folder_1 --path2 /path_to_folder_2
 ```
 
 Computing IS of a given folder containing images:
 ```
-python inception_score.py --path1 /path_to_folder_1 --path2 /path_to_folder_1
+python inception_score.py --path /path_to_folder_1
 ```
